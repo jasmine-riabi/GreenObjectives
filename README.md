@@ -37,15 +37,15 @@
 
 
 
-. Les besoins
+. Les besoins : 
 
-   a. Visiteurs
+   a. Visiteurs :
 
       i. accès en mode libre
 
       ii. calculer l'équivalent CO2 sur un trajet
 
-   b. Client
+   b. Client :
 
       i. s'inscrire avec informations personnelles avec mot de passe
 
@@ -75,7 +75,7 @@
 
      xi. vgestion consommation sur différente période pour les "clients fidèles"
 
-  c. Administrateur
+  c. Administrateur : 
 
       i. supprimer compte client
 
@@ -89,7 +89,7 @@
 
 
 
-. User Stories
+. User Stories : 
 
   - En tant que visiteur, je veux accéder à l'application afin de calculer mon équivalence co2 sur mon voyage
 
@@ -138,6 +138,14 @@
   - En tant qu'administrateur, je veux pouvoir gérer les templates afin de faciliter l'utilisation de l'application par clients
 
   - En tant qu'administrateur, je veux pouvoir générer des templates afin d'utiliser des copies
+
+  - En tant qu’administrateur je veux un espace qui m’est dédié afin de gérer tout le site web
+
+  - En tant qu’administrateur je veux pouvoir me connecter à mon espace afin de gérer le site web 3
+ 
+  - En tant qu’administrateur je veux avoir un tableau de bord afin de gérer tout le site web 1H30
+ 
+  - En tant qu’administrateur je veux avoir un rôle admin afin de gérer les autres rôles 1H
 
 Architectures
 
